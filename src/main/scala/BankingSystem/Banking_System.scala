@@ -1,5 +1,6 @@
 package BankingSystem
 import scala.io.StdIn.readInt
+
 object Banking_System {
   def main(args: Array[String]): Unit=
 

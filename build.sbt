@@ -22,6 +22,8 @@ val jodaconvert ="org.joda" % "joda-convert" % "2.2.2"
 val dep1="org.scalikejdbc" %% "scalikejdbc" % "3.5.0"
 val dep2="com.h2database" % "h2" % "2.1.214" % Test
 val dep3="ch.qos.logback" % "logback-classic" % "1.4.4" % Test
+//val AkkaVersion1 = "2.6.20"
+//val allakkaDependency="com.typesafe.akka" %% "akka-actor-typed" %
 
 
 libraryDependencies ++=Seq(scalaLogging,utilControl,reflect,xml,test2,test1,flatSpec,freespec,wordSpec,funSpec,JodaTime,MySql,jodaconvert,dep1,dep2,dep3)

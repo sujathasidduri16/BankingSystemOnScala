@@ -5,7 +5,9 @@ import scala.io.StdIn.{readInt}
 
 
   class AccountDetails {
-  // Creating four ListBuffer which stores
+
+
+    // Creating four ListBuffer which stores
   // the initial details of customer
   var name = new ListBuffer[String]()
   name += ("Sujatha", "Suma", "Dhruv","Sravan","Sravanthi","Prasad")
