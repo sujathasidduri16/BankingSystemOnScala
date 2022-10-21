@@ -1,9 +1,6 @@
 package BankingSystem
 import scala.collection.mutable.ListBuffer
 import scala.io.StdIn.{readInt}
-
-
-
   class AccountDetails {
 
 
